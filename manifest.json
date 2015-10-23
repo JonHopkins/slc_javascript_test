@@ -1,0 +1,9 @@
+{
+  "name": "Interview Assessment",
+  "description": "Show GDS Blog Article Headers.",
+  "version": "0.1",
+  "minimum_chrome_version": "16.0.884",
+  "permissions": ["https://gds.blog.gov.uk/"],
+  "browser_action": {"default_popup": "popup.html"},
+  "manifest_version": 2
+}
